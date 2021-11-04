@@ -1,0 +1,5 @@
+{
+  "python.pythonPath": "C:\\Users\\qndbs\\anaconda3\\envs\\car_project\\python.exe",
+  "cSpell.words": ["drivest", "pyplot", "sklearn"],
+  "python.formatting.provider": "black"
+}
